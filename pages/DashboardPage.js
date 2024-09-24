@@ -10,6 +10,7 @@ export class DashboardPage extends BasePage {
     super(page);
     this.userProfileImage = page.locator("#navbarDropdown");
     this.logoutButton = page.locator(".dropdown-item");
+    this.booksLink = page.locator("a[href='#books']");
   }
 
 
