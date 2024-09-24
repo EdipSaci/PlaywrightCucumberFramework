@@ -9,7 +9,9 @@ Feature: Book Categories
     #*      , Biography/Autobiography ,Romance, Short Story, Essay, Memoir, Poetry, Thrillers, Young adults           
 
 
-    # TODO: verify users see 23 book categories
+    # TODO: verify users see 21 book categories
+
+    # TODO: Verify that all 21 book categories are displayed under the Book Categories drop down
 
     
     #? Should there be more scenarios for this user story? Feel free to add more scenarios.
